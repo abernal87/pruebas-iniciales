@@ -3,4 +3,4 @@
 github para testear
 
 crear un enlace
-[visita mi web](www.google.es)
+[visita mi web](http://www.google.es)
